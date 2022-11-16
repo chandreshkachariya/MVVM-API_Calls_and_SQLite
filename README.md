@@ -7,7 +7,9 @@ The below tasks are easily understandable for a Core developer
 
 
 I am describing the Demo details below:
+
 Part 1:
+
 Call the below API:
 https://dev.virtualearth.net/REST/v1/LocalSearch/?query=hospital&userLocation=47.602038,-122.333964&key=AthpKc52wjrCVUd51hK2qrPCe7OE4BP8rfkzsYHlWDBZdAopJH7af7uptSgIb7qs
 
@@ -32,6 +34,7 @@ Every time the application is launched, it should delete all the previous data f
 
 
 Part 2:
+
 Add another button named: “View Images” on the top right corner of the navigation bar.
 On press of the same, open a page and call the below API:
 
